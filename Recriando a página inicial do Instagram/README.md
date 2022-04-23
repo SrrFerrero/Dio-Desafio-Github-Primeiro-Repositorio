@@ -3,6 +3,6 @@ Desafio de Projeto com o uso de HTML e CSS do Bootcamp de **JavaScript Game Deve
 
 
 ## Links Uteis
-[Site da DIO](https://www.dio.me/en)
-[Repositório no GitHub de referência](https://github.com/SpruceGabriela/instagram-dio)
+- [Site da DIO](https://www.dio.me/en)
+- [Repositório no GitHub de referência](https://github.com/SpruceGabriela/instagram-dio)
 
